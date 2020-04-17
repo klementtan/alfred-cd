@@ -1,6 +1,6 @@
 # alfred-cd
 
-[![cd Demo](https://user-images.githubusercontent.com/49265907/79575949-24257980-80f5-11ea-991c-23bbd5554fba.gif)](https://github.com/klementtan/alfred-cd)
+[![cd Demo](https://user-images.githubusercontent.com/49265907/79578143-6603ef00-80f8-11ea-990a-282ec63b19ce.gif)](https://github.com/klementtan/alfred-cd)
 
 ## Description
 Open any directory in terminal
